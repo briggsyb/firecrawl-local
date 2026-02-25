@@ -60,3 +60,6 @@ target/out/
 *.rdb
 dump.rdb
 temp-*.rdb
+# Generated scrape outputs
+out/
+
